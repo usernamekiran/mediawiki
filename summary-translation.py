@@ -430,7 +430,7 @@ lang_dicts = {
 		"pagecount-namespace-name": "Không gian tên",
 	},
 	
-	'endict' : {
+	'mrdict' : {
 		"reports_base_url": "विकिपीडिया:विस्मरणातील लेख/", # The base URL for the report, preceding the page title
 		"summary": "अहवाल अद्ययावत केला.", # edit summary when the report is updated.
 
