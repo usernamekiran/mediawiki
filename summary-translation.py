@@ -431,8 +431,13 @@ lang_dicts = {
 	},
 	
 	'mrdict' : {
-		"reports_base_url": "विकिपीडिया:विस्मरणातील लेख/", # The base URL for the report, preceding the page title
+		"reports_base_url": "विकिपीडिया:डेटाबेस अहवाल/", # The base URL for the report, preceding the page title
 		"summary": "अहवाल अद्ययावत केला.", # edit summary when the report is updated.
-
+		
+		"forgotten-articles-page-title": "विस्मरणातील लेख",
+		"forgotten-articles-desc": "अत्याधिक काळ संपादने न झालेली ५०० पाने (पुनर्निर्देशन, व निःसंदिग्धीकरण पाने सोडून).",
+		"forgotten-articles-title": "लेख",
+		"forgotten-articles-last-edited": "शेवटचे संपादन",
+		"forgotten-articles-editcount": "संपादनांची संख्या",
 	},
 }
